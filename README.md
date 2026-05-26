@@ -129,7 +129,7 @@ power redistribution.
 Download OpenMC and Conda beforehand. OpenMC has a compiled core, so conda is easier than pip:
 
 ```bash
-conda create -n openmc -c conda-forge openmc python=3.11
+conda create -n openmc -c conda-forge openmc python=3.13
 conda activate openmc
 pip install -r requirements.txt
 jupyter lab
