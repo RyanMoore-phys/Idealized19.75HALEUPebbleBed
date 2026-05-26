@@ -4,7 +4,6 @@
 # In[17]:
 
 
-%matplotlib inline
 import os
 from math import pi
 import numpy as np
